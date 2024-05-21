@@ -8,7 +8,7 @@ The Iris dataset contains measurements of sepal length, sepal width, petal lengt
 
 ## Project Structure
 
-- `iris_classification.ipynb`: Jupyter Notebook containing the code for data loading, preprocessing, model training, evaluation, and visualization.
+- `iris.ipynb`: Jupyter Notebook containing the code for data loading, preprocessing, model training, evaluation, and visualization.
 - `README.md`: This file providing an overview of the project.
 - `requirements.txt`: Text file listing the required Python libraries and their versions for running the code.
 - `LICENSE`: License information for the project.
@@ -30,7 +30,7 @@ The Iris dataset contains measurements of sepal length, sepal width, petal lengt
 2. Install the required dependencies:
 
 
-3. Run the Jupyter Notebook `iris_classification.ipynb` to train the model and visualize the results.
+3. Run the Jupyter Notebook `iris.ipynb` to train the model and visualize the results.
 
 ## License
 
